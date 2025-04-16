@@ -14,7 +14,7 @@ from prod_specs import get_product_specs
 ##################################################################################################
 ##################################################################################################
 # variables to change according to preferences
-myUrl = 'https://www.aliexpress.com/category/702/laptops.html?spm=a2g0o.home.104.10.650c2145mik6Dq'
+myUrl = "https://fr.aliexpress.com/w/wholesale-top-selling-products.html"
 output_file = 'laptops.json'
 category = 'laptop'
 ##################################################################################################
